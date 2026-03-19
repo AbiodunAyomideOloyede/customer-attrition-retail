@@ -1,0 +1,251 @@
+Customer ID,Region,Acquisition Channel,Favourite Category,Order Frequency,Spend Band,Tenure (Months),Customer Segment,Recency Group,Churned,Churn Reason
+CUST0001,Port Harcourt,Website,Home & Living,High,Low (< 50k),35,Bronze,Active (0-30 days),No,Still Active
+CUST0002,Kano,Website,Electronics,Low,High (150k-300k),5,Silver,Active (0-30 days),Yes,Delivery Issues
+CUST0003,Kano,Mobile App,Fashion,High,Premium (300k+),4,Platinum,Active (0-30 days),Yes,Poor Service
+CUST0004,Kano,Website,Groceries,Medium,Medium (50k-150k),8,Gold,Dormant (90+ days),No,Still Active
+CUST0005,Abuja,Mobile App,Beauty,High,Premium (300k+),24,Bronze,Active (0-30 days),No,Still Active
+CUST0006,Kano,Mobile App,Beauty,Medium,High (150k-300k),35,Platinum,Dormant (90+ days),No,Still Active
+CUST0007,Kano,Walk-in,Groceries,Medium,Medium (50k-150k),12,Silver,Dormant (90+ days),Yes,Found Alternative
+CUST0008,Ibadan,Social Media,Sports,Medium,Medium (50k-150k),5,Bronze,At Risk (31-90 days),No,Still Active
+CUST0009,Port Harcourt,Website,Home & Living,Medium,Low (< 50k),5,Gold,At Risk (31-90 days),No,Still Active
+CUST0010,Kano,Walk-in,Beauty,High,High (150k-300k),6,Gold,Dormant (90+ days),No,Still Active
+CUST0011,Lagos,Mobile App,Sports,High,High (150k-300k),29,Gold,Dormant (90+ days),No,Still Active
+CUST0012,Port Harcourt,Mobile App,Home & Living,Medium,Medium (50k-150k),8,Platinum,At Risk (31-90 days),Yes,Found Alternative
+CUST0013,Enugu,Website,Home & Living,Medium,Premium (300k+),32,Bronze,Dormant (90+ days),Yes,Delivery Issues
+CUST0014,Port Harcourt,Website,Home & Living,High,High (150k-300k),27,Gold,Dormant (90+ days),No,Still Active
+CUST0015,Abuja,Website,Electronics,Medium,Medium (50k-150k),15,Bronze,Dormant (90+ days),No,Still Active
+CUST0016,Abuja,Social Media,Groceries,Low,Medium (50k-150k),35,Gold,At Risk (31-90 days),No,Still Active
+CUST0017,Abuja,Referral,Beauty,High,Premium (300k+),4,Platinum,Dormant (90+ days),No,Still Active
+CUST0018,Kano,Walk-in,Home & Living,Medium,High (150k-300k),31,Platinum,At Risk (31-90 days),Yes,Price
+CUST0019,Ibadan,Website,Electronics,Medium,Premium (300k+),7,Bronze,Dormant (90+ days),No,Still Active
+CUST0020,Lagos,Social Media,Beauty,Low,Low (< 50k),14,Platinum,At Risk (31-90 days),Yes,Found Alternative
+CUST0021,Kano,Social Media,Home & Living,Low,Medium (50k-150k),32,Platinum,At Risk (31-90 days),No,Still Active
+CUST0022,Lagos,Website,Electronics,High,High (150k-300k),17,Platinum,At Risk (31-90 days),No,Still Active
+CUST0023,Kano,Mobile App,Fashion,High,High (150k-300k),35,Bronze,At Risk (31-90 days),No,Still Active
+CUST0024,Enugu,Mobile App,Sports,High,Medium (50k-150k),24,Silver,At Risk (31-90 days),No,Still Active
+CUST0025,Kano,Referral,Beauty,Medium,Premium (300k+),13,Silver,At Risk (31-90 days),No,Still Active
+CUST0026,Abuja,Referral,Home & Living,Medium,Premium (300k+),2,Gold,At Risk (31-90 days),No,Still Active
+CUST0027,Enugu,Referral,Groceries,Medium,Premium (300k+),23,Gold,At Risk (31-90 days),Yes,Price
+CUST0028,Ibadan,Website,Groceries,Medium,High (150k-300k),1,Platinum,At Risk (31-90 days),No,Still Active
+CUST0029,Enugu,Mobile App,Sports,Low,Premium (300k+),13,Platinum,Dormant (90+ days),No,Still Active
+CUST0030,Enugu,Social Media,Electronics,High,Premium (300k+),26,Platinum,Active (0-30 days),No,Still Active
+CUST0031,Enugu,Website,Fashion,Low,Low (< 50k),30,Silver,Dormant (90+ days),No,Still Active
+CUST0032,Ibadan,Social Media,Fashion,High,High (150k-300k),2,Bronze,Dormant (90+ days),No,Still Active
+CUST0033,Lagos,Referral,Sports,High,Medium (50k-150k),13,Silver,At Risk (31-90 days),Yes,Poor Service
+CUST0034,Kano,Website,Beauty,Medium,Medium (50k-150k),27,Silver,Dormant (90+ days),Yes,Inactive
+CUST0035,Ibadan,Referral,Beauty,Medium,Premium (300k+),33,Silver,Dormant (90+ days),No,Still Active
+CUST0036,Kano,Mobile App,Home & Living,High,Medium (50k-150k),1,Silver,Dormant (90+ days),Yes,Delivery Issues
+CUST0037,Enugu,Mobile App,Beauty,Low,High (150k-300k),34,Platinum,Active (0-30 days),No,Still Active
+CUST0038,Kano,Mobile App,Fashion,Medium,Medium (50k-150k),7,Platinum,Active (0-30 days),No,Still Active
+CUST0039,Ibadan,Social Media,Beauty,High,Premium (300k+),13,Gold,Dormant (90+ days),No,Still Active
+CUST0040,Ibadan,Referral,Fashion,High,High (150k-300k),17,Silver,At Risk (31-90 days),No,Still Active
+CUST0041,Ibadan,Mobile App,Home & Living,Medium,High (150k-300k),16,Platinum,At Risk (31-90 days),Yes,Inactive
+CUST0042,Lagos,Website,Sports,High,Premium (300k+),10,Gold,Dormant (90+ days),No,Still Active
+CUST0043,Abuja,Mobile App,Home & Living,High,High (150k-300k),15,Silver,Dormant (90+ days),No,Still Active
+CUST0044,Ibadan,Social Media,Home & Living,Medium,High (150k-300k),6,Gold,Dormant (90+ days),Yes,Product Quality
+CUST0045,Ibadan,Mobile App,Home & Living,Medium,High (150k-300k),19,Bronze,Active (0-30 days),Yes,Poor Service
+CUST0046,Lagos,Social Media,Groceries,Low,Premium (300k+),12,Gold,Dormant (90+ days),No,Still Active
+CUST0047,Enugu,Social Media,Home & Living,Low,High (150k-300k),33,Platinum,Active (0-30 days),No,Still Active
+CUST0048,Port Harcourt,Mobile App,Sports,Medium,High (150k-300k),5,Gold,Dormant (90+ days),No,Still Active
+CUST0049,Lagos,Social Media,Electronics,High,Premium (300k+),5,Gold,Dormant (90+ days),No,Still Active
+CUST0050,Lagos,Social Media,Beauty,Medium,Premium (300k+),18,Silver,At Risk (31-90 days),Yes,Inactive
+CUST0051,Lagos,Website,Groceries,Low,Medium (50k-150k),20,Gold,At Risk (31-90 days),No,Still Active
+CUST0052,Port Harcourt,Walk-in,Beauty,High,Medium (50k-150k),23,Bronze,Active (0-30 days),No,Still Active
+CUST0053,Lagos,Mobile App,Sports,High,High (150k-300k),13,Platinum,Active (0-30 days),Yes,Delivery Issues
+CUST0054,Enugu,Walk-in,Sports,High,High (150k-300k),26,Gold,At Risk (31-90 days),No,Still Active
+CUST0055,Port Harcourt,Website,Sports,High,Premium (300k+),26,Gold,At Risk (31-90 days),No,Still Active
+CUST0056,Lagos,Mobile App,Sports,High,Premium (300k+),28,Silver,Dormant (90+ days),Yes,Inactive
+CUST0057,Kano,Social Media,Beauty,Medium,Premium (300k+),3,Platinum,Dormant (90+ days),Yes,Found Alternative
+CUST0058,Lagos,Social Media,Groceries,Medium,Premium (300k+),36,Gold,At Risk (31-90 days),Yes,Found Alternative
+CUST0059,Port Harcourt,Website,Electronics,Medium,High (150k-300k),31,Gold,At Risk (31-90 days),No,Still Active
+CUST0060,Abuja,Referral,Electronics,Low,Medium (50k-150k),6,Silver,Active (0-30 days),No,Still Active
+CUST0061,Ibadan,Mobile App,Groceries,Medium,Premium (300k+),6,Silver,Dormant (90+ days),No,Still Active
+CUST0062,Ibadan,Social Media,Sports,High,Medium (50k-150k),10,Bronze,Dormant (90+ days),No,Still Active
+CUST0063,Enugu,Walk-in,Sports,High,Premium (300k+),9,Bronze,Dormant (90+ days),No,Still Active
+CUST0064,Enugu,Website,Electronics,Low,Low (< 50k),24,Bronze,Dormant (90+ days),No,Still Active
+CUST0065,Kano,Mobile App,Sports,Low,Premium (300k+),16,Platinum,Active (0-30 days),Yes,Delivery Issues
+CUST0066,Enugu,Referral,Beauty,Low,Premium (300k+),5,Platinum,At Risk (31-90 days),Yes,Price
+CUST0067,Abuja,Website,Fashion,High,Premium (300k+),30,Platinum,Active (0-30 days),No,Still Active
+CUST0068,Ibadan,Social Media,Electronics,High,Premium (300k+),13,Bronze,At Risk (31-90 days),No,Still Active
+CUST0069,Port Harcourt,Social Media,Beauty,High,Medium (50k-150k),31,Bronze,Dormant (90+ days),No,Still Active
+CUST0070,Lagos,Website,Sports,High,Medium (50k-150k),34,Gold,Dormant (90+ days),No,Still Active
+CUST0071,Lagos,Referral,Fashion,Medium,Premium (300k+),31,Bronze,Active (0-30 days),No,Still Active
+CUST0072,Kano,Walk-in,Groceries,Medium,Medium (50k-150k),14,Bronze,At Risk (31-90 days),No,Still Active
+CUST0073,Enugu,Referral,Groceries,Medium,Medium (50k-150k),33,Gold,Dormant (90+ days),No,Still Active
+CUST0074,Abuja,Walk-in,Home & Living,Medium,Low (< 50k),1,Platinum,Dormant (90+ days),No,Still Active
+CUST0075,Port Harcourt,Website,Home & Living,Medium,High (150k-300k),8,Gold,Dormant (90+ days),Yes,Found Alternative
+CUST0076,Lagos,Website,Sports,Low,Premium (300k+),19,Gold,Dormant (90+ days),No,Still Active
+CUST0077,Ibadan,Referral,Electronics,Medium,Premium (300k+),18,Bronze,Active (0-30 days),No,Still Active
+CUST0078,Enugu,Social Media,Sports,High,Medium (50k-150k),18,Platinum,At Risk (31-90 days),No,Still Active
+CUST0079,Port Harcourt,Walk-in,Electronics,High,Premium (300k+),26,Silver,Active (0-30 days),No,Still Active
+CUST0080,Enugu,Walk-in,Home & Living,High,Premium (300k+),19,Platinum,At Risk (31-90 days),Yes,Product Quality
+CUST0081,Abuja,Walk-in,Home & Living,Medium,Medium (50k-150k),17,Gold,At Risk (31-90 days),No,Still Active
+CUST0082,Port Harcourt,Walk-in,Beauty,High,High (150k-300k),11,Silver,Dormant (90+ days),Yes,Product Quality
+CUST0083,Kano,Website,Home & Living,High,High (150k-300k),29,Platinum,At Risk (31-90 days),Yes,Poor Service
+CUST0084,Lagos,Website,Groceries,High,Low (< 50k),16,Gold,At Risk (31-90 days),Yes,Product Quality
+CUST0085,Lagos,Walk-in,Home & Living,Medium,Premium (300k+),14,Platinum,Dormant (90+ days),Yes,Price
+CUST0086,Port Harcourt,Referral,Groceries,Low,Premium (300k+),34,Silver,Dormant (90+ days),Yes,Poor Service
+CUST0087,Ibadan,Walk-in,Home & Living,Medium,Premium (300k+),2,Silver,Dormant (90+ days),Yes,Inactive
+CUST0088,Kano,Walk-in,Electronics,Low,High (150k-300k),34,Platinum,At Risk (31-90 days),No,Still Active
+CUST0089,Lagos,Website,Fashion,Low,High (150k-300k),7,Platinum,Active (0-30 days),Yes,Price
+CUST0090,Abuja,Website,Beauty,High,Low (< 50k),20,Silver,Dormant (90+ days),No,Still Active
+CUST0091,Enugu,Walk-in,Sports,High,Medium (50k-150k),5,Gold,Dormant (90+ days),No,Still Active
+CUST0092,Abuja,Walk-in,Groceries,Medium,Premium (300k+),1,Bronze,Dormant (90+ days),No,Still Active
+CUST0093,Port Harcourt,Social Media,Sports,High,Premium (300k+),31,Silver,Active (0-30 days),No,Still Active
+CUST0094,Ibadan,Social Media,Electronics,Low,Medium (50k-150k),27,Bronze,Dormant (90+ days),Yes,Inactive
+CUST0095,Port Harcourt,Website,Home & Living,Low,Premium (300k+),27,Gold,At Risk (31-90 days),No,Still Active
+CUST0096,Lagos,Social Media,Sports,High,High (150k-300k),14,Platinum,At Risk (31-90 days),No,Still Active
+CUST0097,Abuja,Website,Home & Living,Medium,Medium (50k-150k),19,Bronze,Dormant (90+ days),No,Still Active
+CUST0098,Kano,Website,Fashion,High,High (150k-300k),4,Silver,Active (0-30 days),No,Still Active
+CUST0099,Abuja,Mobile App,Beauty,Low,High (150k-300k),4,Silver,At Risk (31-90 days),No,Still Active
+CUST0100,Enugu,Mobile App,Electronics,High,Medium (50k-150k),13,Silver,Dormant (90+ days),No,Still Active
+CUST0101,Enugu,Walk-in,Electronics,Medium,Premium (300k+),25,Gold,Dormant (90+ days),No,Still Active
+CUST0102,Abuja,Mobile App,Electronics,Low,Medium (50k-150k),23,Platinum,At Risk (31-90 days),No,Still Active
+CUST0103,Kano,Website,Home & Living,Medium,Premium (300k+),20,Platinum,Dormant (90+ days),Yes,Inactive
+CUST0104,Abuja,Social Media,Beauty,High,High (150k-300k),21,Gold,Dormant (90+ days),No,Still Active
+CUST0105,Lagos,Walk-in,Fashion,High,Premium (300k+),26,Bronze,Dormant (90+ days),No,Still Active
+CUST0106,Lagos,Mobile App,Groceries,Medium,Premium (300k+),22,Gold,Active (0-30 days),Yes,Product Quality
+CUST0107,Port Harcourt,Social Media,Groceries,Medium,Low (< 50k),5,Bronze,Active (0-30 days),No,Still Active
+CUST0108,Ibadan,Walk-in,Home & Living,High,Medium (50k-150k),28,Platinum,At Risk (31-90 days),Yes,Delivery Issues
+CUST0109,Lagos,Social Media,Sports,High,Medium (50k-150k),16,Gold,Dormant (90+ days),No,Still Active
+CUST0110,Port Harcourt,Referral,Electronics,High,Medium (50k-150k),11,Silver,Dormant (90+ days),No,Still Active
+CUST0111,Lagos,Walk-in,Beauty,High,High (150k-300k),28,Bronze,At Risk (31-90 days),No,Still Active
+CUST0112,Kano,Mobile App,Fashion,Low,High (150k-300k),29,Silver,Dormant (90+ days),Yes,Delivery Issues
+CUST0113,Kano,Website,Sports,High,Premium (300k+),8,Gold,Dormant (90+ days),No,Still Active
+CUST0114,Port Harcourt,Social Media,Groceries,High,Medium (50k-150k),29,Silver,At Risk (31-90 days),Yes,Poor Service
+CUST0115,Port Harcourt,Referral,Fashion,Medium,Low (< 50k),17,Silver,At Risk (31-90 days),No,Still Active
+CUST0116,Enugu,Mobile App,Sports,Medium,Premium (300k+),7,Bronze,At Risk (31-90 days),No,Still Active
+CUST0117,Ibadan,Social Media,Electronics,High,Medium (50k-150k),8,Bronze,At Risk (31-90 days),Yes,Product Quality
+CUST0118,Lagos,Social Media,Beauty,High,Medium (50k-150k),17,Bronze,Dormant (90+ days),Yes,Product Quality
+CUST0119,Port Harcourt,Website,Electronics,Medium,High (150k-300k),3,Silver,Active (0-30 days),No,Still Active
+CUST0120,Kano,Website,Electronics,High,High (150k-300k),24,Silver,Active (0-30 days),No,Still Active
+CUST0121,Abuja,Mobile App,Home & Living,High,High (150k-300k),27,Bronze,Dormant (90+ days),No,Still Active
+CUST0122,Kano,Website,Sports,High,Low (< 50k),11,Platinum,Dormant (90+ days),No,Still Active
+CUST0123,Port Harcourt,Social Media,Home & Living,Low,High (150k-300k),23,Platinum,Dormant (90+ days),No,Still Active
+CUST0124,Enugu,Website,Home & Living,High,High (150k-300k),1,Platinum,Dormant (90+ days),No,Still Active
+CUST0125,Lagos,Mobile App,Home & Living,High,Premium (300k+),30,Silver,Dormant (90+ days),Yes,Price
+CUST0126,Abuja,Walk-in,Electronics,High,Premium (300k+),24,Silver,At Risk (31-90 days),Yes,Found Alternative
+CUST0127,Kano,Website,Electronics,Low,High (150k-300k),13,Gold,Dormant (90+ days),Yes,Price
+CUST0128,Port Harcourt,Mobile App,Beauty,High,Premium (300k+),6,Silver,At Risk (31-90 days),No,Still Active
+CUST0129,Kano,Walk-in,Beauty,High,Medium (50k-150k),31,Silver,Active (0-30 days),No,Still Active
+CUST0130,Ibadan,Referral,Fashion,Medium,High (150k-300k),10,Silver,At Risk (31-90 days),No,Still Active
+CUST0131,Lagos,Referral,Sports,Low,Premium (300k+),21,Bronze,Dormant (90+ days),No,Still Active
+CUST0132,Kano,Social Media,Sports,Medium,High (150k-300k),16,Platinum,Dormant (90+ days),No,Still Active
+CUST0133,Ibadan,Referral,Home & Living,Medium,Low (< 50k),32,Platinum,Dormant (90+ days),Yes,Product Quality
+CUST0134,Abuja,Walk-in,Home & Living,Low,Low (< 50k),23,Platinum,Dormant (90+ days),No,Still Active
+CUST0135,Kano,Referral,Sports,Low,Low (< 50k),9,Bronze,At Risk (31-90 days),No,Still Active
+CUST0136,Enugu,Referral,Electronics,Low,Premium (300k+),25,Silver,Dormant (90+ days),Yes,Price
+CUST0137,Enugu,Mobile App,Fashion,Low,Premium (300k+),32,Gold,At Risk (31-90 days),No,Still Active
+CUST0138,Enugu,Website,Electronics,High,High (150k-300k),17,Silver,Dormant (90+ days),No,Still Active
+CUST0139,Port Harcourt,Walk-in,Fashion,Medium,High (150k-300k),31,Silver,Dormant (90+ days),No,Still Active
+CUST0140,Kano,Website,Groceries,Medium,Low (< 50k),12,Platinum,Dormant (90+ days),Yes,Found Alternative
+CUST0141,Port Harcourt,Walk-in,Fashion,High,Premium (300k+),8,Bronze,Dormant (90+ days),No,Still Active
+CUST0142,Ibadan,Referral,Beauty,High,Premium (300k+),7,Gold,Dormant (90+ days),No,Still Active
+CUST0143,Ibadan,Social Media,Groceries,Medium,Premium (300k+),10,Gold,Active (0-30 days),No,Still Active
+CUST0144,Ibadan,Website,Fashion,High,Premium (300k+),4,Gold,At Risk (31-90 days),No,Still Active
+CUST0145,Port Harcourt,Referral,Sports,High,High (150k-300k),1,Bronze,Dormant (90+ days),Yes,Found Alternative
+CUST0146,Enugu,Walk-in,Home & Living,High,High (150k-300k),4,Silver,Dormant (90+ days),No,Still Active
+CUST0147,Enugu,Mobile App,Electronics,Low,Low (< 50k),23,Gold,Dormant (90+ days),Yes,Found Alternative
+CUST0148,Abuja,Walk-in,Beauty,Medium,High (150k-300k),14,Gold,Dormant (90+ days),No,Still Active
+CUST0149,Abuja,Website,Electronics,High,Premium (300k+),10,Platinum,At Risk (31-90 days),Yes,Inactive
+CUST0150,Enugu,Social Media,Home & Living,High,Medium (50k-150k),1,Bronze,Dormant (90+ days),No,Still Active
+CUST0151,Port Harcourt,Referral,Sports,High,High (150k-300k),34,Platinum,Active (0-30 days),Yes,Price
+CUST0152,Lagos,Referral,Electronics,Medium,Medium (50k-150k),11,Bronze,Active (0-30 days),No,Still Active
+CUST0153,Lagos,Referral,Beauty,High,Premium (300k+),10,Platinum,Dormant (90+ days),Yes,Product Quality
+CUST0154,Kano,Walk-in,Beauty,Medium,High (150k-300k),5,Gold,Dormant (90+ days),No,Still Active
+CUST0155,Enugu,Referral,Electronics,Medium,Premium (300k+),30,Bronze,Dormant (90+ days),No,Still Active
+CUST0156,Abuja,Website,Electronics,Medium,Medium (50k-150k),3,Bronze,Dormant (90+ days),No,Still Active
+CUST0157,Port Harcourt,Mobile App,Groceries,High,High (150k-300k),28,Gold,At Risk (31-90 days),No,Still Active
+CUST0158,Lagos,Referral,Electronics,Medium,Medium (50k-150k),16,Silver,At Risk (31-90 days),No,Still Active
+CUST0159,Abuja,Walk-in,Groceries,High,Medium (50k-150k),35,Platinum,Dormant (90+ days),No,Still Active
+CUST0160,Enugu,Mobile App,Electronics,Medium,Premium (300k+),15,Gold,Dormant (90+ days),No,Still Active
+CUST0161,Kano,Referral,Electronics,High,Premium (300k+),10,Bronze,Dormant (90+ days),Yes,Price
+CUST0162,Abuja,Social Media,Fashion,High,Low (< 50k),3,Silver,Dormant (90+ days),No,Still Active
+CUST0163,Lagos,Mobile App,Sports,Low,Low (< 50k),24,Silver,Dormant (90+ days),No,Still Active
+CUST0164,Enugu,Mobile App,Sports,Medium,Medium (50k-150k),14,Silver,Dormant (90+ days),Yes,Price
+CUST0165,Lagos,Social Media,Home & Living,Low,Medium (50k-150k),14,Gold,Dormant (90+ days),No,Still Active
+CUST0166,Port Harcourt,Mobile App,Groceries,Medium,Premium (300k+),4,Gold,Dormant (90+ days),No,Still Active
+CUST0167,Kano,Walk-in,Groceries,High,Premium (300k+),27,Bronze,Active (0-30 days),No,Still Active
+CUST0168,Port Harcourt,Walk-in,Sports,Low,High (150k-300k),14,Bronze,At Risk (31-90 days),No,Still Active
+CUST0169,Abuja,Walk-in,Electronics,High,Medium (50k-150k),4,Bronze,Active (0-30 days),No,Still Active
+CUST0170,Ibadan,Website,Home & Living,High,High (150k-300k),33,Gold,At Risk (31-90 days),No,Still Active
+CUST0171,Port Harcourt,Website,Sports,Medium,High (150k-300k),8,Bronze,Dormant (90+ days),No,Still Active
+CUST0172,Kano,Mobile App,Sports,Medium,High (150k-300k),26,Platinum,Active (0-30 days),No,Still Active
+CUST0173,Ibadan,Mobile App,Groceries,Medium,High (150k-300k),28,Silver,Dormant (90+ days),No,Still Active
+CUST0174,Abuja,Walk-in,Fashion,High,High (150k-300k),3,Gold,Dormant (90+ days),No,Still Active
+CUST0175,Abuja,Walk-in,Sports,High,Premium (300k+),11,Platinum,At Risk (31-90 days),No,Still Active
+CUST0176,Kano,Website,Fashion,Medium,High (150k-300k),16,Silver,Dormant (90+ days),Yes,Inactive
+CUST0177,Abuja,Website,Fashion,High,High (150k-300k),34,Gold,At Risk (31-90 days),Yes,Found Alternative
+CUST0178,Port Harcourt,Mobile App,Fashion,High,Medium (50k-150k),25,Silver,At Risk (31-90 days),No,Still Active
+CUST0179,Enugu,Social Media,Home & Living,Medium,Medium (50k-150k),7,Gold,Dormant (90+ days),Yes,Delivery Issues
+CUST0180,Lagos,Mobile App,Home & Living,High,Premium (300k+),15,Gold,At Risk (31-90 days),No,Still Active
+CUST0181,Port Harcourt,Referral,Sports,Medium,Low (< 50k),16,Platinum,Dormant (90+ days),No,Still Active
+CUST0182,Enugu,Walk-in,Fashion,High,Premium (300k+),15,Silver,Dormant (90+ days),No,Still Active
+CUST0183,Ibadan,Social Media,Groceries,High,Premium (300k+),27,Silver,Dormant (90+ days),No,Still Active
+CUST0184,Abuja,Social Media,Home & Living,High,High (150k-300k),27,Silver,At Risk (31-90 days),No,Still Active
+CUST0185,Lagos,Walk-in,Home & Living,High,Premium (300k+),3,Gold,At Risk (31-90 days),No,Still Active
+CUST0186,Enugu,Website,Beauty,Medium,Medium (50k-150k),30,Silver,Dormant (90+ days),No,Still Active
+CUST0187,Lagos,Social Media,Beauty,Medium,High (150k-300k),30,Silver,At Risk (31-90 days),No,Still Active
+CUST0188,Ibadan,Referral,Electronics,High,Premium (300k+),23,Bronze,Dormant (90+ days),Yes,Delivery Issues
+CUST0189,Lagos,Mobile App,Electronics,Medium,Premium (300k+),23,Gold,Dormant (90+ days),Yes,Found Alternative
+CUST0190,Kano,Website,Home & Living,Medium,Medium (50k-150k),9,Bronze,Dormant (90+ days),No,Still Active
+CUST0191,Abuja,Walk-in,Sports,High,Premium (300k+),10,Gold,Dormant (90+ days),No,Still Active
+CUST0192,Ibadan,Social Media,Beauty,High,Medium (50k-150k),31,Gold,At Risk (31-90 days),No,Still Active
+CUST0193,Port Harcourt,Walk-in,Sports,Medium,Premium (300k+),12,Platinum,At Risk (31-90 days),Yes,Inactive
+CUST0194,Port Harcourt,Website,Sports,Medium,High (150k-300k),32,Platinum,Active (0-30 days),No,Still Active
+CUST0195,Enugu,Social Media,Fashion,High,High (150k-300k),25,Bronze,At Risk (31-90 days),Yes,Product Quality
+CUST0196,Abuja,Referral,Groceries,High,High (150k-300k),1,Silver,Dormant (90+ days),No,Still Active
+CUST0197,Port Harcourt,Social Media,Beauty,Low,High (150k-300k),15,Silver,At Risk (31-90 days),No,Still Active
+CUST0198,Abuja,Website,Home & Living,High,High (150k-300k),6,Gold,At Risk (31-90 days),Yes,Inactive
+CUST0199,Kano,Mobile App,Sports,High,High (150k-300k),8,Bronze,At Risk (31-90 days),Yes,Poor Service
+CUST0200,Ibadan,Walk-in,Beauty,Low,High (150k-300k),10,Platinum,Dormant (90+ days),Yes,Poor Service
+CUST0201,Kano,Mobile App,Fashion,High,High (150k-300k),32,Gold,Dormant (90+ days),No,Still Active
+CUST0202,Ibadan,Walk-in,Sports,Low,Medium (50k-150k),24,Bronze,Dormant (90+ days),Yes,Price
+CUST0203,Enugu,Social Media,Electronics,High,High (150k-300k),10,Bronze,Dormant (90+ days),Yes,Delivery Issues
+CUST0204,Abuja,Social Media,Electronics,High,Premium (300k+),22,Platinum,Dormant (90+ days),No,Still Active
+CUST0205,Abuja,Social Media,Home & Living,Medium,High (150k-300k),36,Bronze,At Risk (31-90 days),No,Still Active
+CUST0206,Port Harcourt,Walk-in,Home & Living,Medium,High (150k-300k),18,Gold,Dormant (90+ days),No,Still Active
+CUST0207,Ibadan,Mobile App,Groceries,Medium,High (150k-300k),20,Silver,Dormant (90+ days),No,Still Active
+CUST0208,Lagos,Mobile App,Home & Living,High,High (150k-300k),26,Bronze,Active (0-30 days),No,Still Active
+CUST0209,Lagos,Mobile App,Fashion,High,Premium (300k+),4,Platinum,Dormant (90+ days),No,Still Active
+CUST0210,Enugu,Referral,Sports,Low,Medium (50k-150k),30,Silver,Active (0-30 days),Yes,Poor Service
+CUST0211,Ibadan,Mobile App,Sports,Low,High (150k-300k),9,Gold,At Risk (31-90 days),No,Still Active
+CUST0212,Port Harcourt,Website,Home & Living,Low,High (150k-300k),28,Bronze,Dormant (90+ days),No,Still Active
+CUST0213,Lagos,Mobile App,Home & Living,High,Premium (300k+),26,Platinum,Dormant (90+ days),Yes,Inactive
+CUST0214,Kano,Referral,Sports,Low,High (150k-300k),27,Bronze,At Risk (31-90 days),Yes,Delivery Issues
+CUST0215,Abuja,Mobile App,Home & Living,Low,Low (< 50k),8,Bronze,At Risk (31-90 days),Yes,Price
+CUST0216,Ibadan,Mobile App,Groceries,High,High (150k-300k),29,Silver,Dormant (90+ days),No,Still Active
+CUST0217,Enugu,Website,Sports,High,Low (< 50k),36,Platinum,At Risk (31-90 days),No,Still Active
+CUST0218,Lagos,Mobile App,Electronics,Low,Low (< 50k),6,Platinum,Dormant (90+ days),No,Still Active
+CUST0219,Abuja,Walk-in,Beauty,Low,High (150k-300k),29,Platinum,At Risk (31-90 days),No,Still Active
+CUST0220,Lagos,Social Media,Sports,Medium,Premium (300k+),27,Platinum,Dormant (90+ days),No,Still Active
+CUST0221,Port Harcourt,Referral,Groceries,Medium,Medium (50k-150k),22,Bronze,Dormant (90+ days),No,Still Active
+CUST0222,Port Harcourt,Referral,Home & Living,High,Medium (50k-150k),25,Platinum,At Risk (31-90 days),No,Still Active
+CUST0223,Ibadan,Social Media,Sports,Low,High (150k-300k),18,Platinum,At Risk (31-90 days),Yes,Price
+CUST0224,Abuja,Referral,Fashion,Medium,Premium (300k+),36,Platinum,Active (0-30 days),No,Still Active
+CUST0225,Kano,Referral,Home & Living,High,High (150k-300k),15,Gold,Dormant (90+ days),No,Still Active
+CUST0226,Ibadan,Walk-in,Sports,Medium,Premium (300k+),1,Platinum,Active (0-30 days),No,Still Active
+CUST0227,Kano,Social Media,Electronics,Medium,High (150k-300k),34,Gold,Dormant (90+ days),No,Still Active
+CUST0228,Port Harcourt,Walk-in,Beauty,High,Medium (50k-150k),14,Silver,At Risk (31-90 days),Yes,Inactive
+CUST0229,Port Harcourt,Referral,Beauty,Medium,High (150k-300k),34,Silver,Dormant (90+ days),Yes,Delivery Issues
+CUST0230,Lagos,Social Media,Sports,Medium,Premium (300k+),10,Gold,At Risk (31-90 days),No,Still Active
+CUST0231,Port Harcourt,Referral,Beauty,Low,Low (< 50k),14,Platinum,At Risk (31-90 days),No,Still Active
+CUST0232,Port Harcourt,Social Media,Home & Living,Low,Premium (300k+),9,Gold,At Risk (31-90 days),No,Still Active
+CUST0233,Abuja,Website,Home & Living,Low,Low (< 50k),3,Gold,Dormant (90+ days),No,Still Active
+CUST0234,Ibadan,Mobile App,Beauty,High,High (150k-300k),8,Bronze,At Risk (31-90 days),Yes,Product Quality
+CUST0235,Enugu,Mobile App,Sports,High,High (150k-300k),29,Silver,At Risk (31-90 days),No,Still Active
+CUST0236,Enugu,Website,Fashion,Low,Premium (300k+),23,Bronze,Active (0-30 days),No,Still Active
+CUST0237,Lagos,Social Media,Beauty,High,Premium (300k+),31,Bronze,Active (0-30 days),Yes,Found Alternative
+CUST0238,Abuja,Social Media,Beauty,High,High (150k-300k),7,Platinum,At Risk (31-90 days),No,Still Active
+CUST0239,Ibadan,Mobile App,Groceries,High,High (150k-300k),29,Silver,Dormant (90+ days),No,Still Active
+CUST0240,Lagos,Walk-in,Sports,High,Medium (50k-150k),3,Silver,At Risk (31-90 days),No,Still Active
+CUST0241,Lagos,Referral,Groceries,High,Premium (300k+),29,Bronze,Dormant (90+ days),No,Still Active
+CUST0242,Lagos,Mobile App,Home & Living,Medium,High (150k-300k),15,Platinum,At Risk (31-90 days),Yes,Found Alternative
+CUST0243,Port Harcourt,Website,Sports,Low,Medium (50k-150k),29,Silver,At Risk (31-90 days),No,Still Active
+CUST0244,Port Harcourt,Walk-in,Home & Living,Medium,Medium (50k-150k),18,Gold,At Risk (31-90 days),No,Still Active
+CUST0245,Port Harcourt,Walk-in,Electronics,Medium,High (150k-300k),31,Bronze,Active (0-30 days),Yes,Product Quality
+CUST0246,Enugu,Website,Beauty,High,Premium (300k+),8,Gold,Dormant (90+ days),No,Still Active
+CUST0247,Ibadan,Social Media,Fashion,High,Medium (50k-150k),25,Gold,At Risk (31-90 days),No,Still Active
+CUST0248,Lagos,Social Media,Fashion,High,Low (< 50k),33,Gold,Dormant (90+ days),No,Still Active
+CUST0249,Lagos,Referral,Groceries,Medium,High (150k-300k),3,Platinum,At Risk (31-90 days),Yes,Product Quality
+CUST0250,Abuja,Website,Beauty,High,Medium (50k-150k),12,Silver,Active (0-30 days),No,Still Active
